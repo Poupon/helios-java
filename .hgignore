@@ -1,0 +1,5 @@
+syntax: glob
+com/phipo/Helios/Planet.class
+com/phipo/Helios/PCanvas.class
+com/phipo/Helios/ManagerPlanet.class
+com/phipo/Helios/DialogPlanet.class
