@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<attributes version="1.0">
+   <fileobject name="ManagerPlanet.java">
+      <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="ManagerPlanet"/>
+      <attr name="class_dependency_java.lang.Thread" stringvalue="ManagerPlanet"/>
+   </fileobject>
+   <fileobject name="TreePlanet.java">
+      <attr name="class_dependency_javax.swing.JPanel" stringvalue="TreePlanet"/>
+   </fileobject>
+</attributes>

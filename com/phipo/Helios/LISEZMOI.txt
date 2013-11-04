@@ -1,0 +1,22 @@
+
+Helios est un petit programme que j'ai écrit en 2001 pour montrer
+ sommairement, le systéme solaire à mes enfants.
+
+Il est placé sous la licence GPL v3, c'est à dire qu'en gros le code et
+l'executable sont public (voir les détail de la licence pour plus
+d'informatios).
+
+Le programme se présente sous la forme de trois fenétres :
+
+- La premiére présente une vue simplifié du systéme solaire.
+- La seconde la liste des astres pris en compte, en cliquant gauche sur
+l'un d'entre eux vous centrez la vue sur celui ci, en cliquant droit 
+vous centrez et vous continuer à le suivre pendant sa trajectoire.
+- La troisiéme présente différent réglage, comme le niveau de zoom, le
+ choix entre le tracé de la trajectoire ou celui de l'orbite...
+
+
+Pour ce qui est du code, c'est du vieux code de 2001 ...
+
+Si vous voulez l'améliorer, aller y !
+

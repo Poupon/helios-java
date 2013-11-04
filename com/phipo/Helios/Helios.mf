@@ -1,0 +1,9 @@
+Main-Class: phipo/Helios/Helios
+Class-Path: phipo/Helios/Helios
+Specification-Title: Helios
+Specification-Version: 1.0
+Specification-Vendor: Philippe Poupon
+Implementation-Title: Helios
+Implementation-Version: build64
+Implementation-Vendor: Philippe Poupon
+Sealed: true
